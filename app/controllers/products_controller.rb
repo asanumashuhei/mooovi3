@@ -1,0 +1,2 @@
+class ProductsController < ReviewController
+end
